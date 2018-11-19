@@ -42,6 +42,9 @@ This repo contains all my work for this specialization. All the code base, quiz 
   - [Week 1 - Project 2 - Convolutional Model: application](https://github.com//philtsmith570/deep-learning-coursera/blob/master/Convolutional%20Neural%20Networks/Convolution%20model%20-%20Application%20-%20v1.ipynb)
   - [Week 2 - Project 1 - Keras - Tutorial - Happy House](https://github.com//philtsmith570/deep-learning-coursera/blob/master/Convolutional%20Neural%20Networks/Keras%20-%20Tutorial%20-%20Happy%20House-v2.ipynb)
   - [Week 2 - Project 2 - Residual Networks](https://github.com//philtsmith570/deep-learning-coursera/blob/master/Convolutional%20Neural%20Networks/Residual%20Networks%20-%20v2.ipynb)
+  - [Week 3 - Project 1 - Autonomous Car Detection](https://github.com//philtsmith570/deep-learning-coursera/blob/master/Convolutional%20Neural%20Networks/Autonomous%20driving%20application%20Car%20Detection-v3.ipynb)
+  - [Week 3 - Project 2 - Face Recognition](https://github.com//philtsmith570/deep-learning-coursera/blob/master/Convolutional%20Neural%20Networks/Face%20Recognition%20for%20the%20Happy%20House-v3.ipynb)
+  - [Week 3 - Project 3 - Art Generation](https://github.com//philtsmith570/deep-learning-coursera/blob/master/Convolutional%20Neural%20Networks/Art%20Generation%20with%20Neural%20Style%20Transfer-v2.ipynb)
   
 - Course 5: Sequence Models
 
