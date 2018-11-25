@@ -38,7 +38,7 @@ This repo contains all my work for this specialization. All the code base, quiz 
 
 - Course 4: Convolutional Neural Networks
 
-  - [Week 1 - Project 1 - Convolutional Model: step by step](https://github.com//philtsmith570/deep-learning-coursera/blob/master/Convolutional%20Neural%20Networks/Convolution%20model%20-%20Step%20by%20Step%20-%20v2.ipynb)
+  - [Week 1 - Project 1 - Convolutional Model: step by step](https://github.com//philtsmith570/deep-learning-coursera/blob/master/Convolutional%20Neural%20Networks/Convolution%20model%20-%20Step%20by%20Step%20-v2.ipynb)
   - [Week 1 - Project 2 - Convolutional Model: application](https://github.com//philtsmith570/deep-learning-coursera/blob/master/Convolutional%20Neural%20Networks/Convolution%20model%20-%20Application%20-%20v1.ipynb)
   - [Week 2 - Project 1 - Keras - Tutorial - Happy House](https://github.com//philtsmith570/deep-learning-coursera/blob/master/Convolutional%20Neural%20Networks/Keras%20-%20Tutorial%20-%20Happy%20House-v2.ipynb)
   - [Week 2 - Project 2 - Residual Networks](https://github.com//philtsmith570/deep-learning-coursera/blob/master/Convolutional%20Neural%20Networks/Residual%20Networks%20-%20v2.ipynb)
