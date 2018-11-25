@@ -49,7 +49,7 @@ This repo contains all my work for this specialization. All the code base, quiz 
 
   - [Week 1 - Project 1 - Building a Recurrent Neural Network - Step by Step](https://github.com//philtsmith570/deep-learning-coursera/blob/master/Sequence%20Models/Building%20a%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step%20-%20v2.ipynb)
   - [Week 1 - Project 2 - Character level language model - Dinosaurus Island](https://github.com//philtsmith570/deep-learning-coursera/blob/master/Sequence%20Models/Dinosaurus_Island-Character_level_language_model_final-v3.ipynb)
-  - [Week 1 - Project 3 - Jazz Improvisation Solo with LSTM](https://github.com//philtsmith570/deep-learning-coursera/blob/master/Sequence%20Models/Improvise_a_Jazz_Solo_with_an_LSTM_Network-v1.ipynb)
+  - [Week 1 - Project 3 - Jazz Improvisation Solo with LSTM](https://github.com//philtsmith570/deep-learning-coursera/blob/master/Sequence%20Models/Improvise%20a%20Jazz%20Solo%20with$20an%20LSTM%20Network-v1.ipynb)
   - [Week 1 - Project 1 - Building a Recurrent Neural Network - Step by Step](https://github.com//philtsmith570/deep-learning-coursera/blob/master/Sequence%20Models/Building%20a%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step%20-%20v2.ipynb)
   - [Week 1 - Project 1 - Building a Recurrent Neural Network - Step by Step](https://github.com//philtsmith570/deep-learning-coursera/blob/master/Sequence%20Models/Building%20a%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step%20-%20v2.ipynb)
   - [Week 1 - Project 1 - Building a Recurrent Neural Network - Step by Step](https://github.com//philtsmith570/deep-learning-coursera/blob/master/Sequence%20Models/Building%20a%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step%20-%20v2.ipynb)
