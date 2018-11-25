@@ -39,7 +39,7 @@ This repo contains all my work for this specialization. All the code base, quiz 
 - Course 4: Convolutional Neural Networks
 
   - [Week 1 - Project 1 - Convolutional Model: step by step](https://github.com/philtsmith570/deep-learning-coursera/tree/master/Convolutional%20Neural%20Networks/Convolution_model__Step_by_Step-v2.ipynb)
-  - [Week 2 - Project 1 - Keras - Tutorial - Happy House](https://github.com//philtsmith570/deep-learning-coursera/blob/master/Convolutional%20Neural%20Networks/Keras%20-%20Tutorial%20-%20Happy%20House-v2.ipynb)
+  - [Week 2 - Project 1 - Keras - Tutorial - Happy House](https://github.com/philtsmith570/deep-learning-coursera/tree/master/Convolutional%20Neural%20Networks/Keras%20-%20Tutorial%20-%20Happy%20House-v2.ipynb)
   - [Week 2 - Project 2 - Residual Networks](https://github.com//philtsmith570/deep-learning-coursera/blob/master/Convolutional%20Neural%20Networks/Residual%20Networks%20-%20v2.ipynb)
   - [Week 3 - Project 1 - Autonomous Car Detection](https://github.com//philtsmith570/deep-learning-coursera/blob/master/Convolutional%20Neural%20Networks/Autonomous%20driving%20application%20Car%20Detection-v3.ipynb)
   - [Week 3 - Project 2 - Face Recognition](https://github.com//philtsmith570/deep-learning-coursera/blob/master/Convolutional%20Neural%20Networks/Face%20Recognition%20for%20the%20Happy%20House-v3.ipynb)
