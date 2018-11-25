@@ -39,21 +39,21 @@ This repo contains all my work for this specialization. All the code base, quiz 
 - Course 4: Convolutional Neural Networks
 
   - [Week 1 - Project 1 - Convolutional Model: step by step](https://github.com/philtsmith570/deep-learning-coursera/tree/master/Convolutional%20Neural%20Networks/Convolution_model__Step_by_Step-v2.ipynb)
-  - [Week 2 - Project 1 - Keras Tutorial - Happy House](https://github.com/philtsmith570/deep-learning-coursera/tree/master/Convolutional%20Neural%20Networks/Keras-Tutorial_Happy_House-v2.ipynb)
-  - [Week 2 - Project 2 - Residual Networks](https://github.com/philtsmith570/deep-learning-coursera/tree/master/Convolutional%20Neural%20Networks/Residual_Networks-v2.ipynb)
-  - [Week 3 - Project 1 - Autonomous Car Detection](https://github.com/philtsmith570/deep-learning-coursera/tree/master/Convolutional%20Neural%20Networks/Autonomous_driving_application_Car_detection-v3.ipynb)
-  - [Week 3 - Project 2 - Face Recognition](https://github.com/philtsmith570/deep-learning-coursera/tree/master/Convolutional%20Neural%20Networks/Face_Recognition_for_the_Happy_House-v3.ipynb)
-  - [Week 3 - Project 3 - Art Generation](https://github.com/philtsmith570/deep-learning-coursera/tree/master/Convolutional%20Neural%20Networks/Art_Generation_with_Neural_Style_Transfer-v2.ipynb)
+  - [Week 2 - Project 2 - Keras Tutorial - Happy House](https://github.com/philtsmith570/deep-learning-coursera/tree/master/Convolutional%20Neural%20Networks/Keras-Tutorial_Happy_House-v2.ipynb)
+  - [Week 2 - Project 3 - Residual Networks](https://github.com/philtsmith570/deep-learning-coursera/tree/master/Convolutional%20Neural%20Networks/Residual_Networks-v2.ipynb)
+  - [Week 3 - Project 4 - Autonomous Car Detection](https://github.com/philtsmith570/deep-learning-coursera/tree/master/Convolutional%20Neural%20Networks/Autonomous_driving_application_Car_detection-v3.ipynb)
+  - [Week 3 - Project 5 - Face Recognition](https://github.com/philtsmith570/deep-learning-coursera/tree/master/Convolutional%20Neural%20Networks/Face_Recognition_for_the_Happy_House-v3.ipynb)
+  - [Week 3 - Project 6 - Art Generation](https://github.com/philtsmith570/deep-learning-coursera/tree/master/Convolutional%20Neural%20Networks/Art_Generation_with_Neural_Style_Transfer-v2.ipynb)
   
 - Course 5: Sequence Models
 
   - [Week 1 - Project 1 - Building a Recurrent Neural Network - Step by Step](https://github.com//philtsmith570/deep-learning-coursera/blob/master/Sequence%20Models/Building%20a%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step%20-%20v2.ipynb)
   - [Week 1 - Project 2 - Character level language model - Dinosaurus Island](https://github.com//philtsmith570/deep-learning-coursera/blob/master/Sequence%20Models/Dinosaurus_Island-Character_level_language_model_final-v3.ipynb)
   - [Week 1 - Project 3 - Jazz Improvisation Solo with LSTM](https://github.com//philtsmith570/deep-learning-coursera/blob/master/Sequence%20Models/Improvise_a_Jazz_Solo_with_an_LSTM_Network-v1.ipynb)
-  - [Week 2 - Project 1 - Operations on Word Vectors](https://github.com//philtsmith570/deep-learning-coursera/blob/master/Sequence%20Models/Operations_on_word_vectors-v2.ipynb)
-  - [Week 2 - Project 2 - Emojify](https://github.com//philtsmith570/deep-learning-coursera/blob/master/Sequence%20Models/Emojify-v2.ipynb)
-  - [Week 3 - Project 1 - Neural Machine Translation with Attention](https://github.com//philtsmith570/deep-learning-coursera/blob/master/Sequence%20Models/Neural_machine_translation_with_attention-v2.ipynb)
-  - [Week 3 - Project 2 - Trigger word detection](https://github.com//philtsmith570/deep-learning-coursera/blob/master/Sequence%20Models/Trigger_word_detection-v1.ipynb)
+  - [Week 2 - Project 4 - Operations on Word Vectors](https://github.com//philtsmith570/deep-learning-coursera/blob/master/Sequence%20Models/Operations_on_word_vectors-v2.ipynb)
+  - [Week 2 - Project 5 - Emojify](https://github.com//philtsmith570/deep-learning-coursera/blob/master/Sequence%20Models/Emojify-v2.ipynb)
+  - [Week 3 - Project 6 - Neural Machine Translation with Attention](https://github.com//philtsmith570/deep-learning-coursera/blob/master/Sequence%20Models/Neural_machine_translation_with_attention-v2.ipynb)
+  - [Week 3 - Project 7 - Trigger word detection](https://github.com//philtsmith570/deep-learning-coursera/blob/master/Sequence%20Models/Trigger_word_detection-v1.ipynb)
 
 ## Milestones
 
