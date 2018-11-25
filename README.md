@@ -49,11 +49,11 @@ This repo contains all my work for this specialization. All the code base, quiz 
 
   - [Week 1 - Project 1 - Building a Recurrent Neural Network - Step by Step](https://github.com//philtsmith570/deep-learning-coursera/blob/master/Sequence%20Models/Building%20a%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step%20-%20v2.ipynb)
   - [Week 1 - Project 2 - Character level language model - Dinosaurus Island](https://github.com//philtsmith570/deep-learning-coursera/blob/master/Sequence%20Models/Dinosaurus_Island-Character_level_language_model_final-v3.ipynb)
- - [Week 1 - Project 1 - Building a Recurrent Neural Network - Step by Step](https://github.com//philtsmith570/deep-learning-coursera/blob/master/Sequence%20Models/Building%20a%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step%20-%20v2.ipynb)
   - [Week 1 - Project 1 - Building a Recurrent Neural Network - Step by Step](https://github.com//philtsmith570/deep-learning-coursera/blob/master/Sequence%20Models/Building%20a%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step%20-%20v2.ipynb)
-   - [Week 1 - Project 1 - Building a Recurrent Neural Network - Step by Step](https://github.com//philtsmith570/deep-learning-coursera/blob/master/Sequence%20Models/Building%20a%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step%20-%20v2.ipynb)
-    - [Week 1 - Project 1 - Building a Recurrent Neural Network - Step by Step](https://github.com//philtsmith570/deep-learning-coursera/blob/master/Sequence%20Models/Building%20a%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step%20-%20v2.ipynb)
-     - [Week 1 - Project 1 - Building a Recurrent Neural Network - Step by Step](https://github.com//philtsmith570/deep-learning-coursera/blob/master/Sequence%20Models/Building%20a%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step%20-%20v2.ipynb)
+  - [Week 1 - Project 1 - Building a Recurrent Neural Network - Step by Step](https://github.com//philtsmith570/deep-learning-coursera/blob/master/Sequence%20Models/Building%20a%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step%20-%20v2.ipynb)
+  - [Week 1 - Project 1 - Building a Recurrent Neural Network - Step by Step](https://github.com//philtsmith570/deep-learning-coursera/blob/master/Sequence%20Models/Building%20a%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step%20-%20v2.ipynb)
+  - [Week 1 - Project 1 - Building a Recurrent Neural Network - Step by Step](https://github.com//philtsmith570/deep-learning-coursera/blob/master/Sequence%20Models/Building%20a%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step%20-%20v2.ipynb)
+  - [Week 1 - Project 1 - Building a Recurrent Neural Network - Step by Step](https://github.com//philtsmith570/deep-learning-coursera/blob/master/Sequence%20Models/Building%20a%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step%20-%20v2.ipynb)
 
 ## Milestones
 
