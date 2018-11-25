@@ -8,11 +8,6 @@ Instructor: [Andrew Ng](http://www.andrewng.org/)
 
 This repo contains all my work for this specialization. All the code base, quiz questions, screenshot, and images, are taken from, unless specified, [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning).
 
-## What I want to say
-
-**VERBOSE CONTENT WARNING: YOU CAN JUMP TO THE NEXT SECTION IF YOU WANT**
-
-
 ## Programming Assignments
 
 - Course 1: Neural Networks and Deep Learning
