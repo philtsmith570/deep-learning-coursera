@@ -52,7 +52,7 @@ This repo contains all my work for this specialization. All the code base, quiz 
   - [Week 1 - Project 3 - Jazz Improvisation Solo with LSTM](https://github.com//philtsmith570/deep-learning-coursera/blob/master/Sequence%20Models/Improvise_a_Jazz_Solo_with_an_LSTM_Network-v1.ipynb)
   - [Week 2 - Project 1 - Operations on Word Vectors](https://github.com//philtsmith570/deep-learning-coursera/blob/master/Sequence%20Models/Operations_on_word_vectors-v2.ipynb)
   - [Week 2 - Project 2 - Emojify](https://github.com//philtsmith570/deep-learning-coursera/blob/master/Sequence%20Models/Emojify-v2.ipynb)
-  - [Week 3 - Project 1 - Neural Machine Learning with Attention](https://github.com//philtsmith570/deep-learning-coursera/blob/master/Sequence%20Models/Neurak_machine_learning_with_attention-v2.ipynb)
+  - [Week 3 - Project 1 - Neural Machine Learning with Attention](https://github.com//philtsmith570/deep-learning-coursera/blob/master/Sequence%20Models/Neural_machine_learning_with_attention-v2.ipynb)
   - [Week 1 - Project 1 - Building a Recurrent Neural Network - Step by Step](https://github.com//philtsmith570/deep-learning-coursera/blob/master/Sequence%20Models/Building%20a%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step%20-%20v2.ipynb)
 
 ## Milestones
