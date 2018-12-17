@@ -51,5 +51,7 @@ This repo contains all my work for this specialization. All the code base, quiz 
   - [Week 3 - Project 7 - Trigger word detection](https://github.com//philtsmith570/deep-learning-coursera/blob/master/Sequence%20Models/Trigger_word_detection-v1.ipynb)
 
 ## Milestones
-
+## Course Milestones
+- 8/12/18: Finished the Specialization!!!
+- [Course Certificate](https://github.com/philtsmith570/deep-learning-coursera/blob/master/Coursera_Deep_Learning_Specialization.pdf)
   - **8/12/2018**: Finished the Specialization!!!
